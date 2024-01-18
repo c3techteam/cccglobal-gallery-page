@@ -1,3 +1,3 @@
 # cccglobal-gallery-page
 
-gallery pagee of cornerstoneglobal 
+gallery page of cornerstoneglobal 
